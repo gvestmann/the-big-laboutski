@@ -1,0 +1,38 @@
+/* NAVBAR */
+a.navbar-brand {
+    font-size: 50px;
+    color: #1C2331;
+    text-transform: uppercase;
+}
+
+.nav__text--color {
+    color: #e89519
+}
+
+
+/* CARDS & OTHER LAYOUT */
+.row {
+    margin-top: 1.5rem;
+}
+
+.embed-responsive .card-img-top {
+    object-fit: cover;
+}
+
+.card {
+    margin: 1rem;
+    width: 320px;
+}
+
+h4.card-title {
+    text-align: center;
+    font-size: 30px
+}
+  
+.inner-bold {
+    font-weight: 600;
+}
+  
+p {
+    text-align: center;
+}
